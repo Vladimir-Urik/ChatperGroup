@@ -1,0 +1,4 @@
+default: "&7<user> &d> &7<msg>"
+
+pergroup:
+  priklad: "&7<user> &d> &5<msg>"

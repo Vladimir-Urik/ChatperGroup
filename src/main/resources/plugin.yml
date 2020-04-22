@@ -1,0 +1,6 @@
+name: ChatPerGroup
+version: 0.1
+main: sk.GGGEDR.ChatPerGroup.Core
+api-version: 1.13
+depend: [LuckPerms]
+authors: [GGGEDR]
